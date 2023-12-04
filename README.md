@@ -1,2 +1,5 @@
 # babyfeedingtrackerApp
-Simple Baby Feeding Tracker
+Simple Baby Feeding Tracker 
+
+-using SWIFTUI
+-Adds feeding type, time, and date
